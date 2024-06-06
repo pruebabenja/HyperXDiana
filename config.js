@@ -13,6 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
+['51936732723', '𝐇𝐘𝐏𝐄𝐑𝐗 ✅', true],
 ["51926933818", '𝗖𝗿𝗶𝘀 🇾🇪', true],
 ["5493751366296", '𝗝𝗲𝗻𝗻 🇾🇪', true]]
 
